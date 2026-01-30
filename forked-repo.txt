@@ -1,0 +1,3 @@
+curl -s https://api.github.com/repos/Vishu241/mcino-Introduction-to-Git-and-GitHub | jq -r '.parent.full_name'
+
+ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub
